@@ -1,0 +1,24 @@
+#clock {
+  background-color: rgb(73, 72, 72);
+  border: 1px solid black;
+  border-radius: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  width: 150px;
+  height: 50px;
+  margin: auto;
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+
+#hours {
+  color: hotpink;
+}
+#minutes {
+  color: lightblue;
+}
+#seconds {
+  color: yellow;
+}
